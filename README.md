@@ -1,8 +1,8 @@
-# Welcome to here🥰
+# Welcome to my profile🤓
 
 ## About Me
 - 💻 Network Security & Embedded Systems
-- 🏠 Blog: [Your Blog](https://aar0n3906.github.io/)
+- 🏠 Blog: [Aaron's Blog](https://aar0n3906.github.io/)
 - ❄️ Kanxue: [Aar0n](https://bbs.kanxue.com/homepage-985355.htm)
 - 📫 E-mail: [V0id@Point3r.com](mailto:2547633906@qq.com)
 
