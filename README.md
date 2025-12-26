@@ -7,5 +7,5 @@
 
 
 ## GitHub Stats
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Aar0n3906&show_icons=true" />
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aar0n3906&layout=compact" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Aar0n3906&show_icons=true&v=20251226" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aar0n3906&layout=compact&v=20251226" />
