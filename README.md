@@ -7,5 +7,16 @@
 
 
 ## GitHub Stats
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Aar0n3906&show_icons=true&v=20251226" />
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aar0n3906&layout=compact&v=20251226" />
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Aar0n3906&show_icons=true&cache_seconds=21600"
+    alt="Aar0n3906's GitHub stats"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aar0n3906&layout=compact&cache_seconds=21600"
+    alt="Top Langs"
+    height="165"
+  />
+</p>
