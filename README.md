@@ -1,6 +1,6 @@
 # 👻 Hey!
 
-<img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=Aar0n3906&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&amp;theme=radical&amp;rank_icon=default" alt="Aaron's GitHub Stats" />
+<img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=Aar0n3906&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&amp;theme=default&amp;rank_icon=default" alt="Aaron's GitHub Stats" />
 
 ## About Me
 
