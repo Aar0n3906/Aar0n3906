@@ -10,13 +10,13 @@
 
 <p align="center">
   <img
-    height="165"
+    height="200"
     alt="Aar0n3906 GitHub Stats"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aar0n3906&amp;theme=tokyonight"
+    src="https://readme-stats-github.pages.dev/api?username=Aar0n3906&amp;theme=shadow"
   />
   <img
-    height="165"
+    height="200"
     alt="Aar0n3906 Top Languages"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aar0n3906&amp;theme=tokyonight"
+    src="https://readme-stats-github.pages.dev/api/top-langs?username=Aar0n3906&amp;theme=shadow"
   />
 </p>
