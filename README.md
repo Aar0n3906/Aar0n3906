@@ -1,22 +1,10 @@
-# Welcome to my profile
+# 👻 Hey!
+
+<img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=Aar0n3906&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&amp;theme=radical&amp;rank_icon=default" alt="Aaron's GitHub Stats" />
 
 ## About Me
 
-- Network Security & Reverse Engineer & Mobile Security
-- Blog: [Aaron's Blog](https://aar0n3906.github.io/)
+I am a Network Security, Reverse Engineering, and Mobile Security researcher.
+
+- 📝 Blog: [Aaron's Blog](https://aar0n3906.github.io/)
 - ❄️ Kanxue: [Aar0n](https://bbs.kanxue.com/homepage-985355.htm)
-
-## GitHub Stats
-
-<p align="center">
-  <img
-    height="200"
-    alt="Aar0n3906 GitHub Stats"
-    src="https://readme-stats-github.pages.dev/api?username=Aar0n3906&amp;theme=shadow"
-  />
-  <img
-    height="200"
-    alt="Aar0n3906 Top Languages"
-    src="https://readme-stats-github.pages.dev/api/top-langs?username=Aar0n3906&amp;theme=shadow"
-  />
-</p>
